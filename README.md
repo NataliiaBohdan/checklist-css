@@ -1,1 +1,1 @@
-Simple checklist using ccs selectors
+Simple checklist using css selectors
